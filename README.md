@@ -4,4 +4,4 @@ Simple Javascript project which generates a random number between 1 to 20 unknow
 User need to guess the number.
 With each wrong guess score is reduced by 1.
 
-[]!(20210305_230119.gif)
+[]!20210305_230119.gif
